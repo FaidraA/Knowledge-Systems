@@ -1,0 +1,14 @@
+<http://example.org/ns/9200369_webclient_DeliveryManager_pid_8365823_custom_att_2_simple_viewer> <http://example.org/props/title> "Late_violin_concertos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/9200369_webclient_DeliveryManager_pid_7649526_custom_att_2_simple_viewer> <http://example.org/props/duration> "30000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.org/ns/9200369_webclient_DeliveryManager_pid_7649526_custom_att_2_simple_viewer> <http://example.org/props/composer> <http://example.org/ns/Giuseppe_Verdi> .
+<http://example.org/ns/446_UBO3784622> <http://example.org/props/publisher> <http://example.org/ns/Universal_Music> .
+<http://example.org/ns/446_MIL0883143> <http://example.org/props/title> "The_Vivaldi_experience"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/496_LO11475593> <http://example.org/props/publisher> <http://example.org/ns/Universal_Music> .
+<http://example.org/ns/496_MOD1575994> <http://example.org/props/publisher> <http://example.org/ns/Universal_Music> .
+<http://example.org/ns/496_LO11404976> <http://example.org/props/publisher> <http://example.org/ns/Universal_Music> .
+<http://example.org/ns/496_MIL0882729> <http://example.org/props/composer> <http://example.org/ns/Antonio_Vivaldi> .
+<http://example.org/ns/496_MIL0882729> <http://example.org/props/title> "Vivaldi's_Cello"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/Giuseppe_Verdi> <http://example.org/props/date_of_birth> "1813-10-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.org/ns/446_MIL0883143> <http://example.org/props/year> "2011-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://example.org/ns/446_MIL0883143> <http://example.org/props/composer> <http://example.org/ns/Antonio_Vivaldi> .
+
